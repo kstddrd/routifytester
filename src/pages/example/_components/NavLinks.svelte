@@ -2,6 +2,7 @@
   import { url, isActive } from "@sveltech/routify";
   const _links = [
     ["./index", "Home"],
+    ["./kevin", "Kevin"],
     ["./modal", "Modal"],
     ["./reset", "Reset"],
     ["./layouts", "Layouts"],
